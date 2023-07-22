@@ -1,0 +1,3 @@
+src/gql/**
+src/services/graphql/**
+src/types/services/**
